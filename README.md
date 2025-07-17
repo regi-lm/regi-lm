@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Reginaldo Lima 🙋‍♂️
+# Reginaldo Lima 🙋‍♂️
 
 **`Desenvolvedor Front-End`**
 
