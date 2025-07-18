@@ -16,7 +16,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -24,7 +24,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -32,7 +32,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -40,7 +40,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -48,7 +48,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -56,7 +56,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Sass" 
     title="Sass"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -64,7 +64,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="React"
     title="React" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -72,7 +72,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -80,7 +80,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
 />
@@ -88,7 +88,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
