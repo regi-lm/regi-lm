@@ -38,14 +38,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho exp
 />
 <img 
     align="left" 
-    alt="TypeScrpit" 
-    title="TypeScrpit"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="50px" 
