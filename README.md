@@ -6,7 +6,7 @@
 Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho experiência como Desenvolvedor Front-End criando interfaces web modernas, atrativas e com responsividade, utilizando tecnologias como HTML, CSS, JavaScript, Bootstrap, Tailwind, Sass, React.js, Next.js, Node.js e Git.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reginaldolimadev)
-[![Blog](https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://portfoliopessoal-lyart.vercel.app/)](https://portfoliopessoal-lyart.vercel.app/)
+[![Blog](https://img.shields.io/website?label=MeuPortfolio&style=for-the-badge&url=https://reginaldolima.vercel.app/)](https://reginaldolima.vercel.app/)
 
 ## 🤖 Linguagens e tecnologias
 
