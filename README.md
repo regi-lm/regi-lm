@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Reginaldo Lima
 
-***`Desenvolvedor Front-End`***
+***`Desenvolvedor Front-End e Web`***
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Faci Wyden. Tenho experiência como Desenvolvedor Front-End criando interfaces web modernas, atrativas e com responsividade, utilizando tecnologias como HTML, CSS, JavaScript, Bootstrap, Tailwind, Sass, React.js, Next.js, Node.js e Git.
 
